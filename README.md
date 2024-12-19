@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Asael Bañuelos Ortiz]!
 
 🎓 **CS Student** | 💻 **AI & Data Science Enthusiast** | 🌐 **Web Development Specialist**
 
@@ -23,10 +23,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub Stats]([[https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical](https://github.com/AsaelBanuelos?tab=stars)](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical))
-
----
-
-## 🌟 Fun Quote
+## 🌟  Quote
 _Every human has two lives; the second starts when they realize they have only one"
