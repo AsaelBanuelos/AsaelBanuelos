@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Your Name]!
 
-<!--
-**AsaelBanuelos/AsaelBanuelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CS Student** | 💻 **AI & Data Science Enthusiast** | 🌐 **Web Development Specialist**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 📚 I'm a Computer Science student with a focus on **Artificial Intelligence** and **Data Science**.
+- 🌟 Specialized in **Web Development**, I love building user-friendly and efficient applications.
+- 🎮 Passionate about **coding**, **video games**, and **computers**—I even enjoy building them from scratch!
+- 🐾 A huge animal lover—I adore spending time with furry friends. 🐶🐱
+- 🏋️‍♂️ I’m also a gym enthusiast, always striving to stay healthy and active.
+- 🌱 Always in pursuit of **learning new things**, especially those that are off the beaten path.
+
+---
+
+## 🚀 Fun Facts About Me
+- 🎮 I love playing video games in my free time!
+- 🔧 I enjoy building computers and experimenting with hardware.
+- 🐾 I’m a big animal lover—dogs, cats, and all creatures in between!
+- 🏋️‍♂️ Hitting the gym is my go-to way to relax and recharge.
+- 🤓 Always on the hunt for **uncommon knowledge** to expand my horizons.
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical](https://github.com/AsaelBanuelos?tab=stars))
+
+---
+
+## 🌟 Fun Quote
+_Every human has two lives; the second starts when they realize they have only one"
