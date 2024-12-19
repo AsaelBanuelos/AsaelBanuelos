@@ -24,7 +24,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical](https://github.com/AsaelBanuelos?tab=stars))
+![Your GitHub Stats]([[https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical](https://github.com/AsaelBanuelos?tab=stars)](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical))
 
 ---
 
